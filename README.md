@@ -20,7 +20,7 @@ This work is licensed under a
 "第5回","Landau理論1","Landauの自由エネルギーと相転移・臨界現象"<br>
 "第6回","Landau理論2","Ginzburg-Landauの自由エネルギー，2点相関関数と相関長",<br>
 "第7回","Landau理論3","Langevin方程式（ブラウン運動と確率過程）"<br>
-"第8回","Landau理論4","時間依存したGinzburg-Landau方程式|Allen–Cahn方程式|Cahn-Hilliard方程式|スピノーダル分解と核形成"<br>
+"第8回","Landau理論4","時間依存したGinzburg-Landau方程式|Allen–Cahn方程式"<br>
 "第9回","臨界現象と繰り込み群1","臨界現象におけるスケーリング則"<br>
 "第10回","臨界現象と繰り込み群2","スケーリング則と繰り込み群"<br>
 "第11回","臨界現象と繰り込み群3","Migdal-Kadanoffの実空間繰り込み群 ブロックスピン変換"<br>
