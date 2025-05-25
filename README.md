@@ -8,7 +8,7 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## 更新履歴<br>
-04/14：第1回講義資料をLecture1におきました．講義が進むにつれデータをアップデートさせます．<br>
+04/14：第1回講義資料をLecture1におきました．講義が進むにつれ資料をアップデートさせます．<br>
 04/20：第2回講義資料をLecture2におきました．<br>
 05/07：第3回講義資料をLecture3におきました．カリキュラムの旧第7回，旧8回内容を融合し，内容を改めました。<br>
 05/13：第4回講義資料をLecture4におきました．<br>
