@@ -7,4 +7,4 @@
 式(27)比熱: -T 抜けを修正 <br>
 
 ## 第5回講義レスポンスシート（Q&A）
-N/A
+https://irradiated-pot-667.notion.site/II-5-Q-A-1ffc4e3a1a4e807fa7aadb1f88557524
