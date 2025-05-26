@@ -1,5 +1,5 @@
 #  第6回講義資料等
-内容： Ginzburg Landau自由エネルギー
+内容： Ginzburg-Landauの自由エネルギー | 2点相関関数と相関長 | Ginzburg基準| 上部臨界次元
 
 ## 修正履歴 
 N/A
