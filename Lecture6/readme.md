@@ -3,7 +3,7 @@
 
 ## 修正履歴 5/27 14:31
 p17: (12)式上本文：　$\{m(\mathbf{q'})\}$ を平均に $\to \{\tilde{m}(\mathbf{q'})\}$を平均に <br>
-p19: (16)式: $F(\{m(\mathbf{q'}) \})$ $\to e^{-\beta F(\{m(\mathbf{q'}) \})}$
+p19: (16)式: $F(\{ m(\mathbf{q'}) \})$ $\to e^{-\beta F(\{m(\mathbf{q'}) \})}$
 p31: $|t| \ll 0$ $\to |t| \ll 1$ <br>
 
 
