@@ -1,5 +1,5 @@
 #  第7回講義資料等
-内容：  Ginzburg基準| 上部臨界次元 | 時間発展するGinzburg-Landauの自由エネルギー 
+内容：  Ginzburg基準 | 上部臨界次元 | 時間発展するGinzburg-Landauの自由エネルギー 
 
 ## 修正履歴 
 N/A
