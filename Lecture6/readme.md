@@ -11,4 +11,4 @@ p31: $|t| \ll 0$ $\to |t| \ll 1$ <br>
 
 
 ## 第6回講義レスポンスシート（Q&A）
-N/A
+[N/A](https://irradiated-pot-667.notion.site/II-6-Q-A-206c4e3a1a4e8087815ce09701538b1c?pvs=73)
