@@ -6,5 +6,5 @@ N/A
 
 
 ## 第7回講義レスポンスシート（Q&A）
-[N/A](https://irradiated-pot-667.notion.site/II-7-Q-A-20dc4e3a1a4e8030a619eba9644bf3d8)
+[LINK](https://irradiated-pot-667.notion.site/II-7-Q-A-20dc4e3a1a4e8030a619eba9644bf3d8)
 
