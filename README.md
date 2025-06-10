@@ -29,7 +29,7 @@ This work is licensed under a
 | 第4回  | 相互作用がある系の平衡統計力学2       | 平均場理論 \| イジング模型の相転移・臨界現象 |
 | 第5回  | Landau理論1                         | Landauの自由エネルギーと相転移・臨界現象 |
 | 第6回  | Landau理論2                         | Ginzburg-Landauの自由エネルギー \| 2点相関関数と相関長 \| Ginzburg基準 \| 上部臨界次元 |
-| 第7回  | Landau理論3                         | 時間依存したGinzburg-Landau(TDGL)方程式 \| Langevin方程式 \| Allen–Cahn方程式 \| 動的臨界現象 |
+| 第7回  | Landau理論3                         | 時間依存したGinzburg-Landau(TDGL)方程式 \| Langevin方程式 \| Allen–Cahn方程式 \| 動的臨界現象　\|Model A, B |
 | 第8回  | 臨界現象と繰り込み群1                 | Kadanoffのスケーリング理論と繰り込み群 \| スケーリング関係式 |
 | 第9回  | 臨界現象と繰り込み群2                 | 実空間繰り込み群：1次元イジング模型の繰り込み群|
 | 第10回 | 臨界現象と繰り込み群3                 | 実空間繰り込み群：Migdal-Kadanoff繰り込み群(MKRG) |
