@@ -15,7 +15,7 @@ $$
 \begin{aligned}
 y' &= \frac{y(x + y)}{1 + x y} \\
    &= \frac{(1 - \epsilon)(x + 1 - \epsilon)}{1 + x(1 - \epsilon)} \\
-   &\sim \frac{x + 1 - \epsilon}{1 + x} \\
+   &\sim \frac{x + 1 - 2\epsilon}{1 + x} \\
    &= \left( \frac{x + 1}{1 + x} \right) - \frac{2\epsilon}{1 + x} \\
    &= 1 - \frac{2\epsilon}{1 + x} \\
    &\sim 1 - 2\epsilon
