@@ -6,4 +6,4 @@
 
 
 ## 第8回講義レスポンスシート（Q&A）
-N/A
+[リンク](https://irradiated-pot-667.notion.site/II-8-Q-A-214c4e3a1a4e808a8efff07e534970c8)
