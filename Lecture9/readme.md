@@ -21,6 +21,7 @@ y' &= \frac{y(x + y)}{1 + x y} \\
    &\sim 1 - 2\epsilon
 \end{aligned}
 $$
+
 <br>
 6/21 14:25<br>
 p18 式(22)最後の式の分母のxが抜けていたので以下のように修正<br>
