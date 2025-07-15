@@ -31,4 +31,5 @@
   修正後：
   $-\frac{\log 1 - \log b}{1 - b} \cdot \frac{b^2}{1 + b} \cdot \frac{\varepsilon}{3}$
 - 式(34)下から2行目
- $\sim \frac{S_d\Lambda^4}{4(2\pi)^d} \int_{\Lambda/b}^{\Lambda} dq \, q^{d-1} \cdot \frac{1}{q^4}$における$\Lambda^4$が抜けていたので加えました。
+ $$\sim \frac{S_d\Lambda^4}{4(2\pi)^d} \int_{\Lambda/b}^{\Lambda} dq \, q^{d-1} \cdot \frac{1}{q^4}$$
+における$\Lambda^4$が抜けていたので加えました。
