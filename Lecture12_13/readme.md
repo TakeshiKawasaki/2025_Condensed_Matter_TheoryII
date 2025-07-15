@@ -26,11 +26,7 @@ $\langle \phi_1 \phi_2^2 \rangle_0 \to \langle \phi_1 \phi_2 \rangle_0$    <br>
   $\log 1$ を $1$ として扱っていた誤りを修正。
 
   修正前：
-  $
-  -\frac{1 - \log b}{1 - b} \cdot \frac{b^2}{1 + b} \cdot \frac{\varepsilon}{3}
-  $
+  $-\frac{1 - \log b}{1 - b} \cdot \frac{b^2}{1 + b} \cdot \frac{\varepsilon}{3}$
 
   修正後：
-  $
-  -\frac{\log 1 - \log b}{1 - b} \cdot \frac{b^2}{1 + b} \cdot \frac{\varepsilon}{3}
-  $
+  $-\frac{\log 1 - \log b}{1 - b} \cdot \frac{b^2}{1 + b} \cdot \frac{\varepsilon}{3}$
