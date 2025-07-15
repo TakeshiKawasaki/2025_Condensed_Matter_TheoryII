@@ -8,7 +8,7 @@
 
 ## Q&A集
 
-
+第12回：https://irradiated-pot-667.notion.site/II-12-Q-A-231c4e3a1a4e80479b99d46207c71e30
 
 ---
 
