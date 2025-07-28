@@ -41,5 +41,5 @@ This work is licensed under a
 | 第11回 | 臨界現象と繰り込み群4                 | 運動量空間繰り込み群：φ⁴模型 \| Gauss固定点|
 | 第12回 | 臨界現象と繰り込み群5                 | 運動量空間繰り込み群：φ⁴模型 \| Wilson-Fisher固定点 ε展開 |
 | 第13回 | 臨界現象と繰り込み群6                 | 運動量空間繰り込み群：φ⁴模型 \| Wilson-Fisher固定点 ε展開 続き|
-| 第14回 | その他の問題                         | Berezinskii-Kosterlitz-Thouless転移と実空間くりこみ群  |
+| 第14回 | その他の問題                         | Berezinskii-Kosterlitz-Thouless転移 |
 
