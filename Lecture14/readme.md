@@ -13,3 +13,6 @@ N/A
 
 - **式(28)上の式：**  
  $\left\langle\left| \tilde{\phi}(\mathbf{q}) \right|^2 \right\rangle = \frac{V}{\beta J q^2}$ において $V$ が欠落していたため追加
+
+- **式(28)式：**
+  $\frac{1}{V}$の欠落を修正
